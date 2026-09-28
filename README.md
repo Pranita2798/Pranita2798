@@ -1,6 +1,6 @@
 # Pranita Tashildar
 
-Data analyst in Troy, Michigan. SQL, Python, Power BI and Tableau. 5+ years across automotive, consulting and construction. MS in Data Analytics, Walsh College (2025).
+Data analyst in Troy, Michigan. SQL, Python, Power BI and Tableau. Working across automotive, consulting and construction since 2020. MS in Data Analytics, Walsh College (2025).
 
 **[Portfolio with 14 live demos →](https://pranitatashildar.com)** · [Resume (PDF)](https://pranitatashildar.com/resume/Pranita_Tashildar.pdf) · [LinkedIn](https://www.linkedin.com/in/pranita-tashildar/) · pranitat1223@gmail.com
 
